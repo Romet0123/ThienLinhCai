@@ -1,0 +1,6 @@
+E:\ThienLinhCai\Thien Linh Cai URP 2026\Temp\bin\Debug\Sirenix.OdinInspector.Modules.UnityMathematics.dll
+E:\ThienLinhCai\Thien Linh Cai URP 2026\Temp\bin\Debug\Sirenix.OdinInspector.Modules.UnityMathematics.pdb
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Sirenix.OdinInspector.Modules.UnityMathematics.csproj.AssemblyReference.cache
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Sirenix.OdinInspector.Modules.UnityMathematics.csproj.CoreCompileInputs.cache
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Sirenix.OdinInspector.Modules.UnityMathematics.dll
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Sirenix.OdinInspector.Modules.UnityMathematics.pdb

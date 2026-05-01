@@ -1,0 +1,6 @@
+E:\ThienLinhCai\Thien Linh Cai URP 2026\Temp\bin\Debug\Blocks.Common.dll
+E:\ThienLinhCai\Thien Linh Cai URP 2026\Temp\bin\Debug\Blocks.Common.pdb
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Blocks.Common.csproj.AssemblyReference.cache
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Blocks.Common.csproj.CoreCompileInputs.cache
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Blocks.Common.dll
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\Blocks.Common.pdb

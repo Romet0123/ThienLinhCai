@@ -1,0 +1,2 @@
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\NativeGallery.Editor.csproj.AssemblyReference.cache
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\NativeGallery.Editor.csproj.CoreCompileInputs.cache

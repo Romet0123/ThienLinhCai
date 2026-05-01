@@ -1,0 +1,6 @@
+E:\ThienLinhCai\Thien Linh Cai URP 2026\Temp\bin\Debug\SingularityGroup.HotReload.Runtime.Public.dll
+E:\ThienLinhCai\Thien Linh Cai URP 2026\Temp\bin\Debug\SingularityGroup.HotReload.Runtime.Public.pdb
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\SingularityGroup.HotReload.Runtime.Public.csproj.AssemblyReference.cache
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\SingularityGroup.HotReload.Runtime.Public.csproj.CoreCompileInputs.cache
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\SingularityGroup.HotReload.Runtime.Public.dll
+E:\ThienLinhCai\Thien Linh Cai URP 2026\obj\Debug\SingularityGroup.HotReload.Runtime.Public.pdb
